@@ -47,5 +47,5 @@ Output only the final proposal text, ready to copy and paste. Do not add any com
 - Keep it short. No paragraph longer than 3 lines.
 - Never use the word "leverage", "synergy", "passionate", or any filler phrase.
 - Always end with a concrete offer to start small (test run, sample output, or small milestone).
-- Always include the relevant GitHub link as social proof.
+- Do not include GitHub links in proposals.
 - Sign off as: Raphael

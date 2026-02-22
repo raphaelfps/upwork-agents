@@ -8,6 +8,4 @@ A couple of quick questions:
 
 Happy to run a quick proof-of-concept on one page so you can see it working before we scope the full thing.
 
-GitHub: github.com/raphaelfps
-
 Raphael

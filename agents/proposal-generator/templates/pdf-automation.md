@@ -6,6 +6,4 @@ One question before I start: [SPECIFIC QUESTION ABOUT THEIR DATA FORMAT OR EDGE 
 
 I can start with a small sample so you see the output quality before committing to the full project.
 
-GitHub: github.com/raphaelfps/csv-para-pdf
-
 Raphael

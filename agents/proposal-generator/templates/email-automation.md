@@ -7,6 +7,4 @@ My approach for this project:
 
 What's the website URL? I'll confirm the approach and give you an accurate timeline after a quick look.
 
-GitHub: github.com/raphaelfps/valorant-weekly-digest
-
 Raphael
