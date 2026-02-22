@@ -8,6 +8,8 @@ A few quick questions:
 
 Happy to do a test run on 10–20 records first so you can verify the output before we go full scale.
 
-GitHub: github.com/raphaelfps/valorant-weekly-digest
+I also built an automated pipeline that processes data end-to-end without manual intervention — same principle here.
+
+GitHub: github.com/raphaelfps
 
 Raphael

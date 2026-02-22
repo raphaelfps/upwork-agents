@@ -14,13 +14,14 @@ Load the profile from `context/profile.md`. This gives you:
 
 ## Step 2 — Identify the correct template
 
-Read the job posting and pick one of the three templates:
+Read the job posting and pick one of the four templates:
 
 | Template | Use when the job involves |
 |---|---|
 | `templates/scraping.md` | Extracting data from websites, crawling, structured data collection |
 | `templates/pdf-automation.md` | Generating PDFs, reports, documents from data or templates |
 | `templates/email-automation.md` | Sending emails automatically, scraping + email, email campaigns |
+| `templates/browser-automation.md` | Controlling a browser (Selenium, Playwright), login flows, dynamic sites, bots that click/fill forms |
 
 If the job overlaps two categories, pick the one that matches the primary deliverable.
 
